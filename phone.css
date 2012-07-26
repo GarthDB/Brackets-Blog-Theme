@@ -1,0 +1,31 @@
+#wrapper {
+    width: auto;
+    padding: 0 20px;
+}
+#container {
+    width: auto;
+}
+.entry-meta {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.entry-title{
+    padding-right: 0;
+    margin-bottom: 0px;
+}
+.post p {
+    margin-bottom: 10px;
+    width: 100%;
+}
+#header {
+    padding: 20px 0 20px 40px;
+}
+#header .menu {
+    position: relative;
+    top: 0;
+    float: right;
+}

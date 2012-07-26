@@ -1,0 +1,12 @@
+.main-aside{
+    display: none;
+}
+#wrapper {
+    width: 720px;
+    position: relative;
+    margin: 0 auto;
+}
+#container {
+    float: none;
+    margin: 0 auto;
+}
